@@ -1,0 +1,84 @@
+[
+  {
+    "question": "Who is Azizul Hakim?",
+    "answers": [
+      "Azizul Hakim is a student at Southeast University and has worked on various projects, including a Club app developed with Md Arafat.",
+      "Azizul Hakim is involved in multiple tech projects at Southeast University, with a notable contribution to the Club app alongside Md Arafat.",
+      "Azizul Hakim, a Southeast University student, collaborated with Md Arafat on the development of a Club app, showcasing his skills in programming and design."
+    ]
+  },
+  {
+    "question": "Who is Md. Arafat Mia?",
+    "answers": [
+      "Md. Arafat Mia is a student at Southeast University and a skilled programmer. He collaborated with Azizul Hakim on the development of the Club app.",
+      "Md. Arafat Mia is known for his involvement in creating the Club app with Azizul Hakim, a project designed to manage student club activities.",
+      "Md. Arafat Mia worked alongside Azizul Hakim on the Club app, focusing on the backend and functionality to improve the student experience at Southeast University."
+    ]
+  },
+  {
+    "question": "What is the Club app?",
+    "answers": [
+      "The Club app is a project developed by Azizul Hakim and Md Arafat for organizing and managing club activities at Southeast University.",
+      "The Club app is designed to streamline event organization and membership management for student clubs at Southeast University.",
+      "Azizul Hakim and Md Arafat developed the Club app to help manage student club activities, facilitating communication and event management."
+    ]
+  },
+  {
+    "question": "Who are the members of the club?",
+    "answers": [
+      "The club has several members in different leadership roles. Would you like to know about each one?",
+      "The club consists of talented individuals. Ask me about any member, and I can tell you more."
+    ]
+  },
+  {
+    "question": "Tell me about all club members",
+    "answers": [
+      "The club members are as follows:\n1. Md. Shaneaous Emon - President\n2. Md. Nasir Uddin - Vice President\n3. Zakia Sultana - General Secretary\n4. Rakibul Hasan - Treasurer",
+      "Here are the members of the club:\n1. Md. Shaneaous Emon - President\n2. Md. Nasir Uddin - Vice President\n3. Zakia Sultana - General Secretary\n4. Rakibul Hasan - Treasurer"
+    ]
+  },
+  {
+    "question": "Who is Md. Shaneaous Emon?",
+    "answers": [
+      "Md. Shaneaous Emon is known for his exceptional leadership as the President of Southeast Computer Club and his hard work to advance the club’s initiatives.",
+      "Md. Shaneaous Emon is highly regarded for his dedication and commitment to the Southeast Computer Club, making significant contributions to the university’s tech community.",
+      "Known for his proactive approach and leadership, Md. Shaneaous Emon has successfully guided the Southeast Computer Club to become a well-respected organization at Southeast University."
+    ]
+  },
+  {
+    "question": "Who is Md. Nasir Uddin?",
+    "answers": [
+      "Md. Nasir Uddin serves as the Vice President of the Southeast Computer Club, supporting its initiatives and helping the club grow.",
+      "Md. Nasir Uddin is known for his dedication and contributions as the Vice President of the Southeast Computer Club, assisting with event management and strategic planning."
+    ]
+  },
+  {
+    "question": "Who is Zakia Sultana?",
+    "answers": [
+      "Zakia Sultana is the General Secretary of the Southeast Computer Club, managing internal communications and administrative duties.",
+      "As the General Secretary of the Southeast Computer Club, Zakia Sultana is responsible for organizing meetings, keeping records, and ensuring smooth communication among members."
+    ]
+  },
+  {
+    "question": "Who is Rakibul Hasan?",
+    "answers": [
+      "Rakibul Hasan is the Treasurer of the Southeast Computer Club, handling the club’s finances and budget management.",
+      "As Treasurer of the Southeast Computer Club, Rakibul Hasan manages the financial aspects of the club, ensuring funds are properly allocated for events and activities."
+    ]
+  },
+  {
+    "question": "Tell me about all club Positions",
+    "answers": [
+      "The club members are as follows:\n1. Md. Shaneaous Emon - President\n2. Md. Nasir Uddin - Vice President\n3. Zakia Sultana - General Secretary\n4. Rakibul Hasan - Treasurer\n5. Md. Mostafiz Ul Islam - Senior Sub-Executive\n6. Alamain - Senior Sub-Executive\n7. Sadia Rahman - Senior Sub-Executive\n8. Shafiqul Islam - Senior Sub-Executive\n9. Ahmed Taj Noor - Senior Sub-Executive\n10. Md Tanzid - Senior Sub-Executive\n11. Md. Akib Bin Kabir - Sub-Executive\n12. Md. Mahamudul Hasan Zubayer - Sub-Executive\n13. Md. Shah Sultan Rubel - Sub-Executive\n14. Mizanur Rahman - Sub-Executive\n15. Sajia Jarin Sristi - Sub-Executive\n16. Najmus Sakib - Sub-Executive\n17. Tahsan Mohammad Tahmid - Sub-Executive\n18. MD Rakebur Rahaman - Sub-Executive\n19. Jannat Hossain Rafa - Sub-Executive\n20. Masruful Alam - Sub-Executive\n21. Tanbir Hasan Taz - Sub-Executive\n22. Azizul Hakim Fayaz - Sub-Executive\n23. MD Arafat Mia - Sub-Executive\n24. Shihab Shaharia - Sub-Executive\n25. Mizanur Rahman - Sub-Executive\n26. Rafiul Islam - Sub-Executive\n27. Mohammad Rahat Hossan - Sub-Executive"
+    ]
+  },
+  {
+    "question": "How many embers are there in the club?",
+    "answer": "The club has a total of 450 members."
+  },
+  {
+    "question": "Number of the club Member?",
+    "answer": "The club has a total of 450 members."
+  }
+
+]
